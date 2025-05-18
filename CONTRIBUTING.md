@@ -52,6 +52,8 @@ Read our Code of Conduct to ensure everyone feels welcome.
 🙌 Thank You
 Thank you for being part of this movement. Together, we can turn data into discoveries that save lives. 🧬
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 Em Português
 
 🤝 Contribuindo com o Projeto Curae
