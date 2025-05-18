@@ -4,7 +4,10 @@ In English
 
 Curae is an artificial intelligence that was born to accelerate drug discovery and bring hope to more people. It analyzes millions of data and scientific research to find patterns and promising solutions — with sensitivity, precision, and purpose.
 
-🌱 VisionWe believe in a future where technology and humanity walk together.Curae was created to support researchers, doctors, and scientists who dedicate their lives to healing — making science faster, smarter, and more inclusive.
+🌱 Vision
+We believe in a future where technology and humanity walk together.
+
+Curae was created to support researchers, doctors, and scientists who dedicate their lives to healing — making science faster, smarter, and more inclusive.
 
 ⚙️ How it worksThe Curae pipeline follows 4 main steps:
 
@@ -30,6 +33,8 @@ Creating translations and accessibility Sharing with other researchers and healt
 
 📄 LicenseThis project is under the MIT license.
 Free to use, modify, and share with purpose.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Em Português
 
